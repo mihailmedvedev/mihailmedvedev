@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: about me:
+### :man_technologist: About me:
 
 I am Junior QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began in 2022 with the course “Basics of Software Testing” from Lviv IT School.
 After the course I tried myself in other directions, I tried learning Python and JavaScript. I tried my hand at Data Science, but it was Software Testing that attracted me the most! From 2022 to now, I have continued to study Software Testing. Currently, my theoretical training is complete and I am an intern for the QA Manual 2.0 Internship Program from GlobalLogic!
@@ -74,7 +74,7 @@ After the course I tried myself in other directions, I tried learning Python and
 | Tester from scratch 2023 by Udemy                                           | 09/2023 |
 | Git for distributed development of software by Linux Foundation, Prometheus | 10/2023 |
 
---- -->
+---
 
 ### ⚙️ GitHub statistics:
 
@@ -83,10 +83,6 @@ After the course I tried myself in other directions, I tried learning Python and
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mihailmedvedevqa&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mihailmedvedevqa&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
 </table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mihailmedvedevqa)
