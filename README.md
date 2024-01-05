@@ -47,7 +47,7 @@ After the course I tried myself in other directions, I tried learning Python and
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="hhttps://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 <div>
 
 ---
@@ -68,7 +68,7 @@ After the course I tried myself in other directions, I tried learning Python and
 | ----------------------------------------------------------------------------| :-----: |
 | Basics of software testing by Lviv IT School, Prometheus                    | 05/2022 |
 | Software Testing from Zero to Expert by Udemy                               | 11/2022 |
-| Software Testing Introduction by <epam> Ukraine                             | 06/2023 |
+| Software Testing Introduction by Epam Ukraine                               | 06/2023 |
 | Introduction to SQL by Sololearn                                            | 08/2023 |
 | Intermediate SQL by Sololearn                                               | 08/2023 |
 | Tester from scratch 2023 by Udemy                                           | 09/2023 |
