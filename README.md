@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am Junior QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began in 2022 with the course “Basics of Software Testing” from Lviv IT School.
+I am Junior QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began in 2022 with the course “Basics of Software Testing” by Lviv IT School.
 After the course I tried myself in other directions, I tried learning Python and JavaScript. I tried my hand at Data Science, but it was Software Testing that attracted me the most! From 2022 to now, I have continued to study Software Testing. Currently, my theoretical training is complete and I am an intern for the QA Manual 2.0 Internship Program from GlobalLogic!
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-mihailmedvedevqa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mihailmedvedevqa) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihail.medvedev.qa@gmail.com)
