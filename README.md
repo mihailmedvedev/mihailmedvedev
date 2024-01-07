@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am a Junior QA Engineer. My journey in IT began in 2022 with the course “Basics of Software Testing” by Lviv IT School. After the course, I tried myself in other directions, for example, learning Python and JavaScript. Also, I tried my hand at Data Science, but Software Testing attracted me the most! From 2022 to now, I have continued to study Software Testing. My theoretical training is complete, and I’m an intern for the QA Manual Internship Program from GlobalLogic!
+I am a Junior QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began in 2022 with the course “Basics of Software Testing” by Lviv IT School. After the course, I tried myself in other directions, for example, learning Python and JavaScript. Also, I tried my hand at Data Science, but Software Testing attracted me the most! From 2022 to now, I have continued to study Software Testing. I’m an intern for the QA Manual Internship Program by GlobalLogic!
 
 - :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mihail.medvedev.qa@gmail.com)
 
@@ -12,7 +12,7 @@ I am a Junior QA Engineer. My journey in IT began in 2022 with the course “Bas
 
 ### 🤝 Socials
                   
-<p align="left"> <a href="https://www.github.com/mihailmedvedevqa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<p align="left"> <a href="https://www.github.com/mihailmedvedevqa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mihailmedvedevqa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
   
 ---                  
 
@@ -21,7 +21,7 @@ I am a Junior QA Engineer. My journey in IT began in 2022 with the course “Bas
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" title="google-sheets" alt="google-sheets" width="40" height="40"/>&nbsp;
 </div>
 
@@ -41,7 +41,7 @@ I am a Junior QA Engineer. My journey in IT began in 2022 with the course “Bas
 ### 📱 Mobile application testing:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="chromedevtools" alt="chromedevtools" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp;
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp;
 </div>
@@ -51,7 +51,7 @@ I am a Junior QA Engineer. My journey in IT began in 2022 with the course “Bas
 ### 💾 Working with data:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 <div>
 
